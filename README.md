@@ -1,6 +1,6 @@
 # Testes de API com Postman: Kits de Produtos
 
-Testes do endpoint `/api/v1/kits/:id/products de um aplicativo de pedidos.
+Testes do endpoint `/api/v1/kits/:id/products` de um aplicativo de pedidos.
 
 ## Objetivo
 Verificar se a API aceita entradas válidas e rejeita entradas inválidas com o código HTTP correto.
