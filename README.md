@@ -20,7 +20,7 @@ Postman, JSON, Jira.
 
 ## Melhorias possíveis
 - Automatizar a coleção com scripts de teste do Postman.
-- Cobrir também os endpoints de criação e exclusão de kits.
+- Cobrir também outros endpoints da API de kits.
 
 ## Documentação
 [Planilha com os casos de teste](https://docs.google.com/spreadsheets/d/1gcO2OzskBA80sH3rPQleONSNsfzfBnP5/edit?usp=sharing)
